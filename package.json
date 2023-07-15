@@ -1,0 +1,37 @@
+{
+	"name": "portfolio",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev --host",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@iconify/svelte": "^3.0.1",
+		"@sveltejs/adapter-auto": "^1.0.0",
+		"@sveltejs/adapter-node": "^1.0.0",
+		"@sveltejs/kit": "^1.0.0",
+		"autoprefixer": "^10.4.13",
+		"pocketbase": "^0.9.1",
+		"postcss": "^8.4.20",
+		"svelte": "^3.54.0",
+		"svelte-time": "^0.7.1",
+		"tailwindcss": "^3.2.4",
+		"vite": "^4.0.0",
+		"zod": "^3.20.2"
+	},
+	"type": "module",
+	"dependencies": {
+		"@fireworks-js/svelte": "^2.10.1",
+		"@tabler/icons-svelte": "^2.3.0",
+		"@vime/core": "^5.4.0",
+		"@vime/svelte": "^5.4.0",
+		"animejs": "^3.2.1",
+		"daisyui": "^2.46.1",
+		"dotenv": "^16.0.3",
+		"pocketbase": "^0.9.1",
+		"sass": "^1.57.1",
+		"svelte-french-toast": "^1.0.3"
+	}
+}
